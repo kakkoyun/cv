@@ -1,0 +1,164 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.1 (9/12/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same
+% directory as this .tex file. These files provide the resume style and themes
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{black} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+% \usepackage{hyperref}
+
+\usepackage[scale=0.75]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+%
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Kemal} % Your first name
+\familyname{Akkoyun} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum vitae}
+\email{kakkoyun@gmail.com - +90 (506) 303 96 32}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\makecvtitle % Print the CV title
+
+\url{tr.linkedin.com/in/kemalakkoyun/} \\
+\url{kakkoyun.me}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\cventry{2010--2014}{Bachelor$'$s degree, Computer Science}{Istanbul Bilgi University}{Istanbul, Turkey}
+{\textit{GPA -- 3.93/4.0}}{}  % Arguments not required can be left empty
+\cventry{2008--2010}{Bachelor$'$s degree, Physics}{Middle East Technical University}{Ankara, Turkey}
+{\textit{Not graduated}}{}
+\cventry{2006--2008}{Bachelor$'$s degree, Philosophy}{Galatasaray University}{Istanbul, Turkey}
+{\textit{Not graduated}}{}
+\cventry{2003--2006}{High School}{Izmir Turk Science High School}{Izmir, Turkey}
+{\textit{GPA -- 4.95/5.0}}{}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Experience}
+
+\cventry{September, 2012--Present}{Junior Software Developer}{\textsc{Fazlamesai}}{www.fazlamesai.com}{Istanbul}{Mobile Application Development (iOS, Android, Windows Phone 7/8, Windows RT), Web Application/Service Development (Ruby/Ruby on Rails, Python/Django)}
+\cventry{February, 2010--October, Present}{On Campus Student Employee}{\textsc{Istanbul Bilgi University}}{Istanbul}{}{Developed and web applications/services for Computer Science department. Helped to organize technical conferences held by department.)}
+
+\section{Projects}
+
+\cventry{November, 2012}{Bizimleye}{www.bizimleye.com}{Istanbul}{bizimleye is a social dining network that focused on subject matter and guest and brings people together at restaurants.}{Developed and maintain web application and payment service for project.}
+
+\cventry{November, 2012 -- June, 2014}{TurkcellTV}{www.turkcelltv.com.tr}{Istanbul}{Video On Demand, Live TV streaming, social TV on multiple platforms (Web, iOS, Android)}{Developed and maintain web service and Android applications for project.}
+
+\cventry{June, 2013 -- Present}{ymuse}{}{Istanbul}{A sophisticated client for ymuse.com (Turkish Music Database). Puts album presentation in the center. Shows new ways to explore music with a comfortable presentation.}{Developed and maintain web application and service for platform. Developed Android application and contributed to iOS application.}
+
+%----------------------------------------------------------------------------------------
+%	AWARDS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Awards}
+
+\cvitem{2010--2014}{Full University Scholarship at Istanbul Bilgi University}
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Computer skills}
+
+\cvitem{Concepts}{Open Source, Object Oriented Programming, Functional Programming, MVC Design Pattern, Game Development}
+\cvitem{Languages}{C, Objective-C, C++, C\#, Java, Python, Ruby, R, PHP, Javascript, Scheme/Lisp, Racket, HTML/HTML5, CSS/CSS3, \LaTeX}
+\cvitem{Frameworks and Softwares}{iOS, Android, Ruby on Rails Web Framework, Django Web Framework, Redis, Sentry, Git Version Control System, Linux}
+
+
+%----------------------------------------------------------------------------------------
+%	LANGUAGES SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Languages}
+
+\cvitemwithcomment{Turkish}{Native}{}
+\cvitemwithcomment{English}{Advanced}{}
+\cvitemwithcomment{German}{Basic}{}
+\cvitemwithcomment{French}{Basic}{}
+
+\section{Organizations}
+\cventry{April, 2013}{Free Software and Open Source Days 2013}{Organization Committee}{Istanbul, Turkey}{}{}
+\cventry{April, 2012}{Free Software and Open Source Days 2012}{Organization Committee}{Istanbul, Turkey}{}{}
+\cventry{April, 2011}{Free Software and Open Source Days 2011}{Volunteer Worker}{Istanbul, Turkey}{}{}
+\cventry{2012--Present}{LKD (Linux Users Association)}{Member}{Istanbul, Turkey}{}{}
+\cventry{September, 2011}{COLLNET 7. International Conference on Webometrics, Informetrics and Scientometrics (WIS) 2011}{Organization Committee}{Istanbul, Turkey}{}{}
+\cventry{April, 2011}{Free Software and Open Source Days 2011}{Volunteer Worker}{Istanbul, Turkey}{}{}
+\cventry{2011--Present}{Bugday Association for Supporting Ecological Living}{Member}{Istanbul, Turkey}{}{}
+\cventry{2011--Present}{World Wildlife Fund}{Member}{Istanbul, Turkey}{}{}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Interests}
+
+\renewcommand{\listitemsymbol}{-~} % Changes the symbol used for lists
+
+\cvlistdoubleitem{Comic Books}{Running}
+\cvlistdoubleitem{Reading}{Science Fiction}
+\cvlistitem{Coding}
+
+%----------------------------------------------------------------------------------------
+%	COVER LETTER
+%----------------------------------------------------------------------------------------
+
+% To remove the cover letter, comment out this entire block
+
+%\clearpage
+
+%\recipient{HR Departmnet}{Corporation\\123 Pleasant Lane\\12345 City, State} % Letter recipient
+%\date{\today} % Letter date
+%\opening{Dear Sir or Madam,} % Opening greeting
+%\closing{Sincerely yours,} % Closing phrase
+%\enclosure[Attached]{curriculum vit\ae{}} % List of enclosed documents%
+
+%\makelettertitle % Print letter title
+
+%\lipsum[1-3] % Dummy text
+
+%\makeletterclosing % Print letter signature
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

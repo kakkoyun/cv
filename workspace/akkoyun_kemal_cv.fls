@@ -1,0 +1,205 @@
+PWD /Users/kemal/Dropbox/Home/Job Application/CV/workspace
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.tex
+OUTPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.log
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/moderncv.cls
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/moderncv.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xargs/xargs.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xargs/xargs.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/moderncvcompatibility.sty
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/moderncvcompatibility.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/bigfoot/suffix.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/bigfoot/suffix.sty
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/tweaklist.sty
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/tweaklist.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/utf8x.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/utf8x.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucs.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucs.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-global.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-global.def
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/moderncvstylecasual.sty
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/moderncvstylecasual.sty
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/moderncvstyleclassic.sty
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/moderncvstyleclassic.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/marvosym/umvs.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/marvosym/umvs.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/moderncvcolorblack.sty
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/moderncvcolorblack.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmmi6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.aux
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.aux
+OUTPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.aux
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmss.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmss.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.out
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.out
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.out
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.out
+OUTPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.pdf
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.out
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.out
+OUTPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.out
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmsso12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmsso12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmsso17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmtt12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmss8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmss10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmssbo10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-0.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-0.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-1.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-1.def
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.aux
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.out
+INPUT /Users/kemal/Dropbox/Home/Job Application/CV/workspace/akkoyun_kemal_cv.out
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss12.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss17.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmss8.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsso10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsso12.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsso17.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy8.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt12.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb
